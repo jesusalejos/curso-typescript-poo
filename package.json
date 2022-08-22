@@ -10,7 +10,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "ts-node": "^10.5.0",
-    "typescript": "^4.5.5"
+    "class-validator": "^0.13.2",
+    "ts-node": "10.5.0",
+    "typescript": "4.5.5"
+  },
+  "dependencies": {
+    "@faker-js/faker": "7.4.0",
+    "axios": "0.27.2"
   }
 }
